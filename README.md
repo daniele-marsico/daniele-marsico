@@ -1,22 +1,22 @@
-# Ciao, sono Daniele Marsico 👋
+# Hi, I'm Daniele Marsico 👋
 
-**Controllo di gestione & Finance** · Business Central · Power BI · Excel · Automazioni AI
+**Management Control & Finance** · Business Central · Power BI · Excel · AI Automation
 
-Lavoro nella finance di un gruppo internazionale e aiuto le PMI a costruire un controllo di gestione chiaro, con dati affidabili e processi automatizzati.
+I work in finance at an international group and help SMEs build clear management control, with reliable data and automated processes.
 
-### Di cosa mi occupo
-- **Controllo di gestione** – budget, forecast, reporting e analisi degli scostamenti
-- **Business Intelligence** – cruscotti in Power BI ed Excel / Power Query collegati all'ERP
-- **ERP & consolidato** – Microsoft Dynamics 365 Business Central, consolidamento di gruppo in Board
-- **Automazioni AI** – integrazioni e routine che tolgono lavoro manuale ai processi finance
+### What I do
+- **Management control** – budgeting, forecasting, reporting and variance analysis
+- **Business Intelligence** – Power BI and Excel / Power Query dashboards connected to the ERP
+- **ERP & consolidation** – Microsoft Dynamics 365 Business Central, group consolidation in Board
+- **AI automation** – integrations and routines that remove manual work from finance processes
 
-### Strumenti
+### Tools
 `Business Central` · `Power BI` · `Excel / Power Query` · `Board` · `AI automation`
 
-### Contatti
-- 🌐 [ControllingHub](https://controllinghub.netlify.app) – controllo di gestione per PMI
-- 💼 [Profilo Malt](https://www.malt.com/profile/danielemarsico)
+### Contact
+- 🌐 [ControllingHub](https://controllinghub.netlify.app) – management control for SMEs
+- 💼 [Malt profile](https://www.malt.com/profile/danielemarsico)
 
 ---
 
-**EN** – Finance & management control professional. I help SMEs build clear controlling and reporting on top of Business Central, Power BI and Excel, and automate finance processes with AI.
+🇮🇹 **IT** – Mi occupo di controllo di gestione e finance. Aiuto le PMI a costruire reporting e controllo chiari su Business Central, Power BI ed Excel, e ad automatizzare i processi finance con l'AI.
